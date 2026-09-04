@@ -6,6 +6,8 @@
 
 当前状态：早期演示原型。
 
+在线演示：[https://travel-planner-public-black.vercel.app/](https://travel-planner-public-black.vercel.app/)
+
 计划只保存在你当前使用的浏览器里。清除浏览器数据、换浏览器或换电脑后，原计划不会自动跟随。所有价格、时间、距离和地点信息都只是演示数据，不能直接作为真实出行依据。
 
 ## 项目里的文件夹有什么用

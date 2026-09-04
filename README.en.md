@@ -6,6 +6,8 @@ Light Trip Planner is a local demo web app for building travel itineraries. It d
 
 Current status: early-stage prototype.
 
+Live demo: [https://travel-planner-public-black.vercel.app/](https://travel-planner-public-black.vercel.app/)
+
 The README is available in English, but the web app itself currently supports Chinese only.
 
 Plans are stored only in the browser you use on your own computer. If you clear browser data, switch browsers, or use another computer, saved plans will not automatically follow you. Prices, travel times, distances, and place details are demo data and should not be used as real travel advice.
