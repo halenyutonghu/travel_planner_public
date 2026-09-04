@@ -1,0 +1,98 @@
+[
+  {
+    "id": "bj-h01",
+    "name": "北京东方饭店",
+    "areaId": "bj-palace-wangfujing",
+    "grade": "three-star",
+    "pricePerRoomNight": 368,
+    "fixedRank": 1
+  },
+  {
+    "id": "bj-h02",
+    "name": "北京贵宾楼饭店",
+    "areaId": "bj-palace-wangfujing",
+    "grade": "four-star",
+    "pricePerRoomNight": 998,
+    "fixedRank": 2
+  },
+  {
+    "id": "bj-h03",
+    "name": "北京丽思卡尔顿酒店",
+    "areaId": "bj-palace-wangfujing",
+    "grade": "five-star",
+    "pricePerRoomNight": 2977,
+    "fixedRank": 3
+  },
+  {
+    "id": "bj-h04",
+    "name": "四合院酒店",
+    "areaId": "bj-palace-wangfujing",
+    "grade": "economy",
+    "pricePerRoomNight": 145,
+    "fixedRank": 4
+  },
+  {
+    "id": "bj-h05",
+    "name": "北京什刹海皮影文化酒店",
+    "areaId": "bj-houhai-gulou",
+    "grade": "four-star",
+    "pricePerRoomNight": 690,
+    "fixedRank": 5
+  },
+  {
+    "id": "bj-h06",
+    "name": "杜革酒店",
+    "areaId": "bj-houhai-gulou",
+    "grade": "four-star",
+    "pricePerRoomNight": 800,
+    "fixedRank": 6
+  },
+  {
+    "id": "bj-h07",
+    "name": "北京桂公府酒店",
+    "areaId": "bj-houhai-gulou",
+    "grade": "four-star",
+    "pricePerRoomNight": 1300,
+    "fixedRank": 7
+  },
+  {
+    "id": "bj-h08",
+    "name": "北京凤山温泉度假村",
+    "areaId": "bj-olympic-798",
+    "grade": "three-star",
+    "pricePerRoomNight": 480,
+    "fixedRank": 8
+  },
+  {
+    "id": "bj-h09",
+    "name": "北京唐韵会议度假村",
+    "areaId": "bj-olympic-798",
+    "grade": "five-star",
+    "pricePerRoomNight": 1399,
+    "fixedRank": 9
+  },
+  {
+    "id": "bj-h10",
+    "name": "雕窝村民宿",
+    "areaId": "bj-olympic-798",
+    "grade": "economy",
+    "pricePerRoomNight": 30,
+    "fixedRank": 10
+  },
+  {
+    "id": "bj-h11",
+    "name": "鹿港山舍农家院",
+    "areaId": "bj-olympic-798",
+    "grade": "economy",
+    "pricePerRoomNight": 80,
+    "fixedRank": 11
+  },
+  {
+    "id": "bj-h12",
+    "name": "南山滑雪场挪威别墅",
+    "areaId": "bj-olympic-798",
+    "grade": "five-star",
+    "pricePerRoomNight": 2880,
+    "fixedRank": 12
+  }
+]

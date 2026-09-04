@@ -1,0 +1,17 @@
+[
+  {"id":"gz-a01","name":"广州滨江城市步行体验","areaId":"central","categories":["history","landmark"],"durationMinutes":150,"ticketPerPerson":40,"tiers":["economy","comfortable","quality"],"fixedRank":1},
+  {"id":"gz-a02","name":"广州城市历史展馆","areaId":"central","categories":["history","museum"],"durationMinutes":120,"ticketPerPerson":30,"tiers":["economy","comfortable"],"fixedRank":2},
+  {"id":"gz-a03","name":"广州中心城市广场","areaId":"central","categories":["landmark","family"],"durationMinutes":90,"ticketPerPerson":0,"tiers":["economy","comfortable","quality"],"fixedRank":3},
+  {"id":"gz-a04","name":"广州传统街区美食体验","areaId":"central","categories":["food","shopping"],"durationMinutes":120,"ticketPerPerson":0,"tiers":["economy","comfortable"],"fixedRank":4},
+  {"id":"gz-a05","name":"广州北部艺术馆","areaId":"north","categories":["museum","landmark"],"durationMinutes":120,"ticketPerPerson":55,"tiers":["comfortable","quality"],"fixedRank":5},
+  {"id":"gz-a06","name":"广州北部湖畔公园","areaId":"north","categories":["nature","family"],"durationMinutes":150,"ticketPerPerson":10,"tiers":["economy","comfortable","quality"],"fixedRank":6},
+  {"id":"gz-a07","name":"广州创意商业街区","areaId":"north","categories":["shopping","food"],"durationMinutes":120,"ticketPerPerson":0,"tiers":["comfortable","quality"],"fixedRank":7},
+  {"id":"gz-a08","name":"广州传统建筑体验馆","areaId":"north","categories":["history","museum"],"durationMinutes":100,"ticketPerPerson":35,"tiers":["economy","comfortable"],"fixedRank":8},
+  {"id":"gz-a09","name":"广州西部城市公园","areaId":"west","categories":["nature","family"],"durationMinutes":150,"ticketPerPerson":10,"tiers":["economy","comfortable","quality"],"fixedRank":9},
+  {"id":"gz-a10","name":"广州西部文化艺术中心","areaId":"west","categories":["museum","landmark"],"durationMinutes":120,"ticketPerPerson":45,"tiers":["comfortable","quality"],"fixedRank":10},
+  {"id":"gz-a11","name":"广州地方风味市场","areaId":"west","categories":["food","shopping"],"durationMinutes":100,"ticketPerPerson":0,"tiers":["economy","comfortable"],"fixedRank":11},
+  {"id":"gz-a12","name":"广州城市观景平台","areaId":"west","categories":["landmark","family"],"durationMinutes":90,"ticketPerPerson":65,"tiers":["comfortable","quality"],"fixedRank":12},
+  {"id":"gz-a13","name":"广州近郊森林步道","areaId":"suburb","categories":["nature","family"],"durationMinutes":180,"ticketPerPerson":20,"tiers":["economy","comfortable"],"fixedRank":13},
+  {"id":"gz-a14","name":"广州近郊历史遗址","areaId":"suburb","categories":["history","landmark"],"durationMinutes":180,"ticketPerPerson":50,"tiers":["comfortable","quality"],"fixedRank":14},
+  {"id":"gz-a15","name":"广州近郊民俗体验区","areaId":"suburb","categories":["food","shopping"],"durationMinutes":150,"ticketPerPerson":30,"tiers":["economy","comfortable","quality"],"fixedRank":15}
+]

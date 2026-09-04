@@ -1,0 +1,32 @@
+{
+  "beijing": [
+    {"id": "bj-palace-wangfujing", "cityId": "beijing", "name": "故宫王府井片区", "description": "面向游客的中轴线、宫殿博物馆和步行商业活动 cluster", "centerNote": "故宫博物院至王府井步行街", "fixedRank": 1, "status": "candidate"},
+    {"id": "bj-houhai-gulou", "cityId": "beijing", "name": "后海鼓楼片区", "description": "湖区、胡同、鼓楼和夜间轻餐饮活动 cluster", "centerNote": "什刹海、鼓楼、烟袋斜街周边", "fixedRank": 2, "status": "candidate"},
+    {"id": "bj-olympic-798", "cityId": "beijing", "name": "奥林匹克798片区", "description": "大型公共空间、艺术园区和当代展览活动 cluster", "centerNote": "奥林匹克公园至798艺术区", "fixedRank": 3, "status": "candidate"},
+    {"id": "bj-summer-palace-university", "cityId": "beijing", "name": "颐和园高校片区", "description": "园林、校园周边和西北部文化参观活动 cluster", "centerNote": "颐和园、圆明园、清华北大周边", "fixedRank": 4, "status": "candidate"}
+  ],
+  "shanghai": [
+    {"id": "sh-bund-nanjing-road", "cityId": "shanghai", "name": "外滩南京路片区", "description": "滨江景观、步行商业和城市地标活动 cluster", "centerNote": "外滩、南京东路、人民广场周边", "fixedRank": 1, "status": "candidate"},
+    {"id": "sh-lujiazui-pudong", "cityId": "shanghai", "name": "陆家嘴浦东片区", "description": "高层观景、滨江公共空间和亲子参观活动 cluster", "centerNote": "陆家嘴、滨江大道、东方明珠周边", "fixedRank": 2, "status": "candidate"},
+    {"id": "sh-xintiandi-french-concession", "cityId": "shanghai", "name": "新天地衡复片区", "description": "历史街区、展馆、咖啡餐饮和夜间活动 cluster", "centerNote": "新天地、淮海路、衡复风貌区周边", "fixedRank": 3, "status": "candidate"},
+    {"id": "sh-yuyuan-city-god", "cityId": "shanghai", "name": "豫园城隍庙片区", "description": "传统园林、老城厢和小吃购物活动 cluster", "centerNote": "豫园、城隍庙、老城厢周边", "fixedRank": 4, "status": "candidate"}
+  ],
+  "guangzhou": [
+    {"id": "gz-yuexiu-beijing-road", "cityId": "guangzhou", "name": "越秀北京路片区", "description": "历史遗迹、步行商业和城市展馆活动 cluster", "centerNote": "越秀公园、北京路、中山纪念堂周边", "fixedRank": 1, "status": "candidate"},
+    {"id": "gz-zhujiang-new-town", "cityId": "guangzhou", "name": "珠江新城塔畔片区", "description": "城市中轴、观景塔、博物馆和夜景活动 cluster", "centerNote": "广州塔、花城广场、省博物馆周边", "fixedRank": 2, "status": "candidate"},
+    {"id": "gz-shamian-yongqingfang", "cityId": "guangzhou", "name": "沙面永庆坊片区", "description": "骑楼街区、历史建筑、粤式餐饮和慢行活动 cluster", "centerNote": "沙面、永庆坊、上下九周边", "fixedRank": 3, "status": "candidate"},
+    {"id": "gz-chimelong-panyu", "cityId": "guangzhou", "name": "长隆番禺片区", "description": "主题公园、亲子游乐和度假餐饮活动 cluster", "centerNote": "长隆旅游度假区周边", "fixedRank": 4, "status": "candidate"}
+  ],
+  "kunming": [
+    {"id": "km-green-lake-yunnan-university", "cityId": "kunming", "name": "翠湖云大片区", "description": "湖滨、公园、校园周边和城市散步活动 cluster", "centerNote": "翠湖、云南大学、讲武堂周边", "fixedRank": 1, "status": "candidate"},
+    {"id": "km-dianchi-haigeng", "cityId": "kunming", "name": "滇池海埂片区", "description": "湖景、公园、民族村和观鸥活动 cluster", "centerNote": "滇池、海埂公园、云南民族村周边", "fixedRank": 2, "status": "candidate"},
+    {"id": "km-stone-forest", "cityId": "kunming", "name": "石林片区", "description": "喀斯特景观和近郊一日游活动 cluster", "centerNote": "石林风景区游客中心周边", "fixedRank": 3, "status": "candidate"},
+    {"id": "km-old-street-nanping", "cityId": "kunming", "name": "昆明老街南屏片区", "description": "老街、商业步行、咖啡餐饮和夜间活动 cluster", "centerNote": "昆明老街、南屏街、金马碧鸡坊周边", "fixedRank": 4, "status": "candidate"}
+  ],
+  "nanjing": [
+    {"id": "nj-fuzimiao-laomendong", "cityId": "nanjing", "name": "夫子庙老门东片区", "description": "秦淮夜游、老街、小吃和传统文化活动 cluster", "centerNote": "夫子庙、老门东、中华门周边", "fixedRank": 1, "status": "candidate"},
+    {"id": "nj-zhongshan-scenic", "cityId": "nanjing", "name": "钟山风景片区", "description": "陵园、湖泊、博物馆和自然步行活动 cluster", "centerNote": "中山陵、明孝陵、玄武湖周边", "fixedRank": 2, "status": "candidate"},
+    {"id": "nj-xinjiekou-presidential-palace", "cityId": "nanjing", "name": "新街口总统府片区", "description": "城市商业、近代历史展馆和轻餐饮活动 cluster", "centerNote": "新街口、总统府、1912街区周边", "fixedRank": 3, "status": "candidate"},
+    {"id": "nj-yangtze-river-bridge", "cityId": "nanjing", "name": "长江大桥阅江楼片区", "description": "江景、历史建筑和城市观景活动 cluster", "centerNote": "南京长江大桥、阅江楼、渡江胜利纪念馆周边", "fixedRank": 4, "status": "candidate"}
+  ]
+}

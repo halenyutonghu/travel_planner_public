@@ -1,0 +1,8 @@
+[
+  {"id":"nj-h01","name":"南京中心经济住宿","areaId":"central","grade":"economy","pricePerRoomNight":300,"fixedRank":1},
+  {"id":"nj-h02","name":"南京中心三星住宿","areaId":"central","grade":"three-star","pricePerRoomNight":480,"fixedRank":2},
+  {"id":"nj-h03","name":"南京北部四星住宿","areaId":"north","grade":"four-star","pricePerRoomNight":760,"fixedRank":3},
+  {"id":"nj-h04","name":"南京北部五星住宿","areaId":"north","grade":"five-star","pricePerRoomNight":1280,"fixedRank":4},
+  {"id":"nj-h05","name":"南京西部经济住宿","areaId":"west","grade":"economy","pricePerRoomNight":280,"fixedRank":5},
+  {"id":"nj-h06","name":"南京西部三星住宿","areaId":"west","grade":"three-star","pricePerRoomNight":450,"fixedRank":6}
+]

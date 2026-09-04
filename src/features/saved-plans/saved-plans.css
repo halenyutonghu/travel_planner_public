@@ -1,0 +1,50 @@
+.plans-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+.plan-card {
+  position: relative;
+  display: grid;
+  gap: 16px;
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  padding: 20px;
+  background: #fffdf0;
+  box-shadow: var(--shadow-card);
+  overflow: hidden;
+}
+.plan-card::before {
+  content: "";
+  display: block;
+  height: 4px;
+  margin: -20px -20px 0;
+  background: var(--color-accent);
+}
+.plan-card:nth-child(2n) { background: var(--color-surface-soft); }
+.plan-card:nth-child(3n) { background: #eaf7ff; }
+.plan-card:hover { border-color: var(--color-primary); box-shadow: 5px 5px 0 var(--color-border); transform: translate(-1px, -1px); }
+.plan-card__heading { display: flex; justify-content: space-between; gap: 12px; align-items: flex-start; }
+.plan-card h2 { margin: 0; font-size: 18px; }
+.plan-card__heading p { margin: 4px 0 0; color: var(--color-text-muted); }
+.risk-status { border: 1px solid var(--color-border); border-radius: 999px; padding: 4px 8px; background: var(--color-success-bg); color: var(--color-success); font-size: 12px; font-weight: 700; white-space: nowrap; }
+.risk-status--warning { background: var(--color-warning-bg); color: var(--color-warning); }
+.plan-card dl { display: grid; gap: 8px; margin: 0; }
+.plan-card dl div { display: flex; justify-content: space-between; gap: 12px; }
+.plan-card dt { color: var(--color-text-muted); }
+.plan-card dd { margin: 0; text-align: right; }
+.plan-card__actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: auto; }
+.plan-card__actions a, .plan-card__actions button { display: inline-flex; align-items: center; justify-content: center; gap: 5px; min-height: 44px; text-decoration: none; }
+.plans-empty { display: grid; justify-items: center; max-width: 560px; margin: 64px auto; border: 1px solid var(--color-border); border-radius: 8px; padding: 40px 24px; background: var(--color-surface); box-shadow: var(--shadow-card); text-align: center; }
+.plans-empty svg { color: var(--color-primary); }
+.plans-empty h2 { margin: 16px 0 4px; }
+.plans-empty p { margin: 0 0 20px; color: var(--color-text-muted); }
+.plans-empty a { text-decoration: none; }
+.rename-field { display: grid; gap: 8px; margin-bottom: 20px; }
+.rename-field input { min-height: 44px; border: 1px solid var(--color-border); border-radius: 4px; padding: 8px 12px; }
+.rename-field input:focus { border-color: var(--color-primary); box-shadow: 0 0 0 3px rgb(255 211 0 / 50%); outline: 0; }
+
+@media (max-width: 1023px) {
+  .plans-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+@media (max-width: 767px) {
+  .plans-grid { grid-template-columns: 1fr; }
+  .plan-card { padding: 16px; }
+}

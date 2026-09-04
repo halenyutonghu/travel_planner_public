@@ -1,0 +1,222 @@
+[
+  {
+    "id": "bj-r01",
+    "name": "烧烤牛仔餐厅",
+    "areaId": "bj-palace-wangfujing",
+    "cuisines": [
+      "food"
+    ],
+    "costPerPerson": 85,
+    "durationMinutes": 90,
+    "fixedRank": 1
+  },
+  {
+    "id": "bj-r02",
+    "name": "北平饭庄",
+    "areaId": "bj-palace-wangfujing",
+    "cuisines": [
+      "food"
+    ],
+    "costPerPerson": 83,
+    "durationMinutes": 90,
+    "fixedRank": 2
+  },
+  {
+    "id": "bj-r03",
+    "name": "怪兽奶昔",
+    "areaId": "bj-palace-wangfujing",
+    "cuisines": [
+      "food"
+    ],
+    "costPerPerson": 45,
+    "durationMinutes": 90,
+    "fixedRank": 3
+  },
+  {
+    "id": "bj-r04",
+    "name": "金百万烤鸭店",
+    "areaId": "bj-palace-wangfujing",
+    "cuisines": [
+      "food"
+    ],
+    "costPerPerson": 80,
+    "durationMinutes": 90,
+    "fixedRank": 4
+  },
+  {
+    "id": "bj-r05",
+    "name": "京兆尹",
+    "areaId": "bj-palace-wangfujing",
+    "cuisines": [
+      "food"
+    ],
+    "costPerPerson": 580,
+    "durationMinutes": 90,
+    "fixedRank": 5
+  },
+  {
+    "id": "bj-r06",
+    "name": "隆唐里",
+    "areaId": "bj-palace-wangfujing",
+    "cuisines": [
+      "food"
+    ],
+    "costPerPerson": 65,
+    "durationMinutes": 90,
+    "fixedRank": 6
+  },
+  {
+    "id": "bj-r07",
+    "name": "潮州粥铺",
+    "areaId": "bj-palace-wangfujing",
+    "cuisines": [
+      "food"
+    ],
+    "costPerPerson": 80,
+    "durationMinutes": 90,
+    "fixedRank": 7
+  },
+  {
+    "id": "bj-r08",
+    "name": "煎锅餐厅",
+    "areaId": "bj-palace-wangfujing",
+    "cuisines": [
+      "food"
+    ],
+    "costPerPerson": 69,
+    "durationMinutes": 90,
+    "fixedRank": 8
+  },
+  {
+    "id": "bj-r09",
+    "name": "西苑饭店",
+    "areaId": "bj-palace-wangfujing",
+    "cuisines": [
+      "food"
+    ],
+    "costPerPerson": 61,
+    "durationMinutes": 90,
+    "fixedRank": 9
+  },
+  {
+    "id": "bj-r10",
+    "name": "莲花回家餐厅",
+    "areaId": "bj-houhai-gulou",
+    "cuisines": [
+      "food"
+    ],
+    "costPerPerson": 157,
+    "durationMinutes": 90,
+    "fixedRank": 10
+  },
+  {
+    "id": "bj-r11",
+    "name": "巧克力夜总会餐厅",
+    "areaId": "bj-olympic-798",
+    "cuisines": [
+      "food"
+    ],
+    "costPerPerson": 107,
+    "durationMinutes": 90,
+    "fixedRank": 11
+  },
+  {
+    "id": "bj-r12",
+    "name": "金牛海记潮汕牛肉火锅",
+    "areaId": "bj-olympic-798",
+    "cuisines": [
+      "food"
+    ],
+    "costPerPerson": 119,
+    "durationMinutes": 90,
+    "fixedRank": 12
+  },
+  {
+    "id": "bj-r13",
+    "name": "温野菜涮涮锅",
+    "areaId": "bj-olympic-798",
+    "cuisines": [
+      "food"
+    ],
+    "costPerPerson": 146,
+    "durationMinutes": 90,
+    "fixedRank": 13
+  },
+  {
+    "id": "bj-r14",
+    "name": "偏执米粉",
+    "areaId": "bj-olympic-798",
+    "cuisines": [
+      "food"
+    ],
+    "costPerPerson": 34,
+    "durationMinutes": 90,
+    "fixedRank": 14
+  },
+  {
+    "id": "bj-r15",
+    "name": "撒椒餐厅",
+    "areaId": "bj-olympic-798",
+    "cuisines": [
+      "food"
+    ],
+    "costPerPerson": 98,
+    "durationMinutes": 90,
+    "fixedRank": 15
+  },
+  {
+    "id": "bj-r16",
+    "name": "涮涮锅餐厅",
+    "areaId": "bj-olympic-798",
+    "cuisines": [
+      "food"
+    ],
+    "costPerPerson": 345,
+    "durationMinutes": 90,
+    "fixedRank": 16
+  },
+  {
+    "id": "bj-r17",
+    "name": "桃园眷村",
+    "areaId": "bj-olympic-798",
+    "cuisines": [
+      "food"
+    ],
+    "costPerPerson": 30,
+    "durationMinutes": 90,
+    "fixedRank": 17
+  },
+  {
+    "id": "bj-r18",
+    "name": "洞穴酒吧餐厅",
+    "areaId": "bj-olympic-798",
+    "cuisines": [
+      "food"
+    ],
+    "costPerPerson": 80,
+    "durationMinutes": 90,
+    "fixedRank": 18
+  },
+  {
+    "id": "bj-r19",
+    "name": "奉茶",
+    "areaId": "bj-summer-palace-university",
+    "cuisines": [
+      "food"
+    ],
+    "costPerPerson": 19,
+    "durationMinutes": 90,
+    "fixedRank": 19
+  },
+  {
+    "id": "bj-r20",
+    "name": "宽饭",
+    "areaId": "bj-summer-palace-university",
+    "cuisines": [
+      "food"
+    ],
+    "costPerPerson": 70,
+    "durationMinutes": 90,
+    "fixedRank": 20
+  }
+]

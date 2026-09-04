@@ -1,0 +1,470 @@
+[
+  {
+    "id": "bj-a01",
+    "name": "北海公园",
+    "areaId": "bj-palace-wangfujing",
+    "categories": [
+      "nature",
+      "history"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 10,
+    "tiers": [
+      "economy",
+      "comfortable"
+    ],
+    "fixedRank": 1
+  },
+  {
+    "id": "bj-a02",
+    "name": "首都博物馆",
+    "areaId": "bj-palace-wangfujing",
+    "categories": [
+      "museum"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 0,
+    "tiers": [
+      "economy",
+      "comfortable"
+    ],
+    "fixedRank": 2
+  },
+  {
+    "id": "bj-a03",
+    "name": "孔庙和国子监博物馆",
+    "areaId": "bj-palace-wangfujing",
+    "categories": [
+      "history",
+      "museum"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 30,
+    "tiers": [
+      "economy",
+      "comfortable"
+    ],
+    "fixedRank": 3
+  },
+  {
+    "id": "bj-a04",
+    "name": "中国地质博物馆",
+    "areaId": "bj-palace-wangfujing",
+    "categories": [
+      "museum"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 15,
+    "tiers": [
+      "economy",
+      "comfortable"
+    ],
+    "fixedRank": 4
+  },
+  {
+    "id": "bj-a05",
+    "name": "景山公园",
+    "areaId": "bj-palace-wangfujing",
+    "categories": [
+      "nature",
+      "landmark"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 2,
+    "tiers": [
+      "economy",
+      "comfortable"
+    ],
+    "fixedRank": 5
+  },
+  {
+    "id": "bj-a06",
+    "name": "恭王府博物馆",
+    "areaId": "bj-palace-wangfujing",
+    "categories": [
+      "history",
+      "museum"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 40,
+    "tiers": [
+      "economy",
+      "comfortable"
+    ],
+    "fixedRank": 6
+  },
+  {
+    "id": "bj-a07",
+    "name": "天坛公园",
+    "areaId": "bj-palace-wangfujing",
+    "categories": [
+      "history",
+      "nature"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 34,
+    "tiers": [
+      "economy",
+      "comfortable"
+    ],
+    "fixedRank": 7
+  },
+  {
+    "id": "bj-a08",
+    "name": "故宫博物院",
+    "areaId": "bj-palace-wangfujing",
+    "categories": [
+      "history",
+      "museum"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 60,
+    "tiers": [
+      "comfortable",
+      "quality"
+    ],
+    "fixedRank": 8
+  },
+  {
+    "id": "bj-a09",
+    "name": "中山公园",
+    "areaId": "bj-palace-wangfujing",
+    "categories": [
+      "nature",
+      "history"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 3,
+    "tiers": [
+      "economy",
+      "comfortable"
+    ],
+    "fixedRank": 9
+  },
+  {
+    "id": "bj-a10",
+    "name": "798·751 艺术街区",
+    "areaId": "bj-olympic-798",
+    "categories": [
+      "shopping",
+      "landmark"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 0,
+    "tiers": [
+      "economy",
+      "comfortable"
+    ],
+    "fixedRank": 10
+  },
+  {
+    "id": "bj-a11",
+    "name": "八达岭长城",
+    "areaId": "bj-olympic-798",
+    "categories": [
+      "history",
+      "landmark"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 40,
+    "tiers": [
+      "economy",
+      "comfortable"
+    ],
+    "fixedRank": 11
+  },
+  {
+    "id": "bj-a12",
+    "name": "北京汽车博物馆",
+    "areaId": "bj-olympic-798",
+    "categories": [
+      "museum"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 30,
+    "tiers": [
+      "economy",
+      "comfortable"
+    ],
+    "fixedRank": 12
+  },
+  {
+    "id": "bj-a13",
+    "name": "北京欢乐谷",
+    "areaId": "bj-olympic-798",
+    "categories": [
+      "family",
+      "nature"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 299,
+    "tiers": [
+      "quality"
+    ],
+    "fixedRank": 13
+  },
+  {
+    "id": "bj-a14",
+    "name": "北京奥林匹克森林公园",
+    "areaId": "bj-olympic-798",
+    "categories": [
+      "nature"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 0,
+    "tiers": [
+      "economy",
+      "comfortable"
+    ],
+    "fixedRank": 14
+  },
+  {
+    "id": "bj-a15",
+    "name": "古北水镇国际旅游度假区",
+    "areaId": "bj-olympic-798",
+    "categories": [
+      "landmark",
+      "food",
+      "shopping",
+      "history"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 140,
+    "tiers": [
+      "comfortable",
+      "quality"
+    ],
+    "fixedRank": 15
+  },
+  {
+    "id": "bj-a16",
+    "name": "中央电视塔",
+    "areaId": "bj-olympic-798",
+    "categories": [
+      "landmark"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 90,
+    "tiers": [
+      "comfortable",
+      "quality"
+    ],
+    "fixedRank": 16
+  },
+  {
+    "id": "bj-a17",
+    "name": "中国铁道博物馆东郊馆",
+    "areaId": "bj-olympic-798",
+    "categories": [
+      "museum"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 20,
+    "tiers": [
+      "economy",
+      "comfortable"
+    ],
+    "fixedRank": 17
+  },
+  {
+    "id": "bj-a18",
+    "name": "中国紫檀博物馆",
+    "areaId": "bj-olympic-798",
+    "categories": [
+      "museum"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 20,
+    "tiers": [
+      "economy",
+      "comfortable"
+    ],
+    "fixedRank": 18
+  },
+  {
+    "id": "bj-a19",
+    "name": "黄花城水长城",
+    "areaId": "bj-olympic-798",
+    "categories": [
+      "history",
+      "nature"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 60,
+    "tiers": [
+      "comfortable",
+      "quality"
+    ],
+    "fixedRank": 19
+  },
+  {
+    "id": "bj-a20",
+    "name": "居庸关长城",
+    "areaId": "bj-olympic-798",
+    "categories": [
+      "history",
+      "landmark"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 35,
+    "tiers": [
+      "economy",
+      "comfortable"
+    ],
+    "fixedRank": 20
+  },
+  {
+    "id": "bj-a21",
+    "name": "亮马河国际风情水岸",
+    "areaId": "bj-olympic-798",
+    "categories": [
+      "landmark",
+      "food",
+      "shopping"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 50,
+    "tiers": [
+      "economy",
+      "comfortable"
+    ],
+    "fixedRank": 21
+  },
+  {
+    "id": "bj-a22",
+    "name": "慕田峪长城",
+    "areaId": "bj-olympic-798",
+    "categories": [
+      "history",
+      "landmark"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 45,
+    "tiers": [
+      "economy",
+      "comfortable"
+    ],
+    "fixedRank": 22
+  },
+  {
+    "id": "bj-a23",
+    "name": "青龙峡风景区",
+    "areaId": "bj-olympic-798",
+    "categories": [
+      "nature"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 54,
+    "tiers": [
+      "comfortable",
+      "quality"
+    ],
+    "fixedRank": 23
+  },
+  {
+    "id": "bj-a24",
+    "name": "石林峡风景区",
+    "areaId": "bj-olympic-798",
+    "categories": [
+      "nature"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 68,
+    "tiers": [
+      "comfortable",
+      "quality"
+    ],
+    "fixedRank": 24
+  },
+  {
+    "id": "bj-a25",
+    "name": "明十三陵",
+    "areaId": "bj-olympic-798",
+    "categories": [
+      "history"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 60,
+    "tiers": [
+      "comfortable",
+      "quality"
+    ],
+    "fixedRank": 25
+  },
+  {
+    "id": "bj-a26",
+    "name": "雁栖湖风景区",
+    "areaId": "bj-olympic-798",
+    "categories": [
+      "nature"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 45,
+    "tiers": [
+      "economy",
+      "comfortable"
+    ],
+    "fixedRank": 26
+  },
+  {
+    "id": "bj-a27",
+    "name": "北京 teamLab 无相艺术空间",
+    "areaId": "bj-olympic-798",
+    "categories": [
+      "family",
+      "landmark"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 198,
+    "tiers": [
+      "quality"
+    ],
+    "fixedRank": 27
+  },
+  {
+    "id": "bj-a28",
+    "name": "北京海洋馆",
+    "areaId": "bj-summer-palace-university",
+    "categories": [
+      "museum"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 175,
+    "tiers": [
+      "quality"
+    ],
+    "fixedRank": 28
+  },
+  {
+    "id": "bj-a29",
+    "name": "颐和园",
+    "areaId": "bj-summer-palace-university",
+    "categories": [
+      "history",
+      "nature"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 30,
+    "tiers": [
+      "economy",
+      "comfortable"
+    ],
+    "fixedRank": 29
+  },
+  {
+    "id": "bj-a30",
+    "name": "圆明园遗址公园",
+    "areaId": "bj-summer-palace-university",
+    "categories": [
+      "history",
+      "nature"
+    ],
+    "durationMinutes": 120,
+    "ticketPerPerson": 25,
+    "tiers": [
+      "economy",
+      "comfortable"
+    ],
+    "fixedRank": 30
+  }
+]

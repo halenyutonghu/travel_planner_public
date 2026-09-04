@@ -1,0 +1,14 @@
+[
+  {"fromAreaId":"central","toAreaId":"north","mode":"publicTransit","distanceKm":8,"durationMinutes":35,"pricing":"perPerson","price":5},
+  {"fromAreaId":"north","toAreaId":"central","mode":"publicTransit","distanceKm":8,"durationMinutes":35,"pricing":"perPerson","price":5},
+  {"fromAreaId":"central","toAreaId":"west","mode":"publicTransit","distanceKm":10,"durationMinutes":40,"pricing":"perPerson","price":5},
+  {"fromAreaId":"west","toAreaId":"central","mode":"publicTransit","distanceKm":10,"durationMinutes":40,"pricing":"perPerson","price":5},
+  {"fromAreaId":"central","toAreaId":"suburb","mode":"publicTransit","distanceKm":28,"durationMinutes":75,"pricing":"perPerson","price":12},
+  {"fromAreaId":"suburb","toAreaId":"central","mode":"publicTransit","distanceKm":28,"durationMinutes":75,"pricing":"perPerson","price":12},
+  {"fromAreaId":"north","toAreaId":"west","mode":"publicTransit","distanceKm":12,"durationMinutes":50,"pricing":"perPerson","price":6},
+  {"fromAreaId":"west","toAreaId":"north","mode":"publicTransit","distanceKm":12,"durationMinutes":50,"pricing":"perPerson","price":6},
+  {"fromAreaId":"north","toAreaId":"suburb","mode":"publicTransit","distanceKm":22,"durationMinutes":65,"pricing":"perPerson","price":10},
+  {"fromAreaId":"suburb","toAreaId":"north","mode":"publicTransit","distanceKm":22,"durationMinutes":65,"pricing":"perPerson","price":10},
+  {"fromAreaId":"west","toAreaId":"suburb","mode":"publicTransit","distanceKm":20,"durationMinutes":60,"pricing":"perPerson","price":10},
+  {"fromAreaId":"suburb","toAreaId":"west","mode":"publicTransit","distanceKm":20,"durationMinutes":60,"pricing":"perPerson","price":10}
+]

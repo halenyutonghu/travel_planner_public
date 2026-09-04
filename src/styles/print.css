@@ -1,0 +1,25 @@
+@page {
+  size: A4 portrait;
+  margin: 14mm;
+}
+
+@media print {
+  body { min-width: 0; background: white; color: black; font-size: 10pt; }
+  .topbar, .heading-actions, .item-actions, .regenerate-button, .dialog-backdrop, .drawer-backdrop, .mobile-menu { display: none !important; }
+  .page-container { width: 100%; margin: 0; }
+  .page-heading { margin-bottom: 8mm; }
+  .simulation-badge { display: inline-block !important; border: 1px solid #777; color: black; }
+  .disclaimer { border: 1px solid #777; background: white; color: black; }
+  .itinerary-layout { display: block; }
+  .itinerary-sidebar { position: static; margin-bottom: 8mm; }
+  .plan-summary { break-inside: avoid; }
+  .itinerary-days { display: block; }
+  .day-card { margin-bottom: 6mm; break-before: auto; }
+  .day-card__header button { display: none; }
+  .day-card__body { display: grid !important; }
+  .day-card__body[hidden] { display: grid !important; }
+  .add-attraction-button { display: none !important; }
+  .timeline-item, .transport-connection, .risk { break-inside: avoid; }
+  .timeline-item { border-color: #999; }
+  a { color: black; text-decoration: none; }
+}

@@ -1,0 +1,51 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Light Trip logo concept v1</title>
+  <desc id="desc">A geometric route and planning-token logo mark based on the selected Budget Route Token direction.</desc>
+
+  <g id="light-trip-mark">
+    <path
+      id="route-outline"
+      d="M18 82H43C54 82 54 68 49 59C40 43 50 31 67 31H91"
+      stroke="#10162F"
+      stroke-width="18"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+    <path
+      id="route-fill"
+      d="M18 82H43C54 82 54 68 49 59C40 43 50 31 67 31H91"
+      stroke="#3A10E5"
+      stroke-width="10"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+
+    <g id="token-offsets" fill="#10162F">
+      <path id="token-top-offset" d="M70 50H105C108.314 50 111 52.686 111 56V67L105 73H70V50Z" />
+      <path id="token-middle-offset" d="M70 69H105C108.314 69 111 71.686 111 75V86L105 92H70V69Z" />
+      <path id="token-bottom-offset" d="M70 88H105C108.314 88 111 90.686 111 94V105L105 111H70V88Z" />
+    </g>
+
+    <g id="tokens" stroke="#10162F" stroke-width="5" stroke-linejoin="round">
+      <path id="token-budget" d="M65 45H100C103.314 45 106 47.686 106 51V62L100 68H65V45Z" fill="#FFD300" />
+      <path id="token-status" d="M65 64H100C103.314 64 106 66.686 106 70V81L100 87H65V64Z" fill="#E6FBF2" />
+      <path id="token-detail" d="M65 83H100C103.314 83 106 85.686 106 89V100L100 106H65V83Z" fill="#FFF7D6" />
+    </g>
+
+    <g id="token-details" stroke="#10162F" stroke-width="5" stroke-linecap="square" stroke-linejoin="round">
+      <path id="budget-dash-a" d="M77 56H87" />
+      <path id="budget-dash-b" d="M93 56H97" />
+      <path id="status-check" d="M76 75L83 82L95 70" stroke-linecap="round" />
+      <path id="status-line" d="M94 76H99" />
+      <path id="detail-dot-a" d="M77 95H80" />
+      <path id="detail-dot-b" d="M87 95H90" />
+      <path id="detail-line" d="M96 95H101" />
+    </g>
+
+    <g id="nodes" stroke="#10162F" stroke-width="7">
+      <circle id="node-start" cx="18" cy="82" r="13" fill="#FFFFFF" />
+      <circle id="node-current" cx="45" cy="82" r="13" fill="#66C4FF" />
+      <circle id="node-end" cx="91" cy="31" r="13" fill="#FFFFFF" />
+    </g>
+  </g>
+</svg>

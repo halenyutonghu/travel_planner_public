@@ -1,0 +1,110 @@
+[
+  {
+    "fromAreaId": "bj-houhai-gulou",
+    "toAreaId": "bj-olympic-798",
+    "mode": "publicTransit",
+    "distanceKm": 13,
+    "durationMinutes": 45,
+    "pricing": "perPerson",
+    "price": 5
+  },
+  {
+    "fromAreaId": "bj-houhai-gulou",
+    "toAreaId": "bj-palace-wangfujing",
+    "mode": "publicTransit",
+    "distanceKm": 5,
+    "durationMinutes": 28,
+    "pricing": "perPerson",
+    "price": 4
+  },
+  {
+    "fromAreaId": "bj-houhai-gulou",
+    "toAreaId": "bj-summer-palace-university",
+    "mode": "publicTransit",
+    "distanceKm": 14,
+    "durationMinutes": 45,
+    "pricing": "perPerson",
+    "price": 5
+  },
+  {
+    "fromAreaId": "bj-olympic-798",
+    "toAreaId": "bj-houhai-gulou",
+    "mode": "publicTransit",
+    "distanceKm": 13,
+    "durationMinutes": 45,
+    "pricing": "perPerson",
+    "price": 5
+  },
+  {
+    "fromAreaId": "bj-olympic-798",
+    "toAreaId": "bj-palace-wangfujing",
+    "mode": "publicTransit",
+    "distanceKm": 12,
+    "durationMinutes": 45,
+    "pricing": "perPerson",
+    "price": 5
+  },
+  {
+    "fromAreaId": "bj-olympic-798",
+    "toAreaId": "bj-summer-palace-university",
+    "mode": "publicTransit",
+    "distanceKm": 18,
+    "durationMinutes": 60,
+    "pricing": "perPerson",
+    "price": 6
+  },
+  {
+    "fromAreaId": "bj-palace-wangfujing",
+    "toAreaId": "bj-houhai-gulou",
+    "mode": "publicTransit",
+    "distanceKm": 5,
+    "durationMinutes": 28,
+    "pricing": "perPerson",
+    "price": 4
+  },
+  {
+    "fromAreaId": "bj-palace-wangfujing",
+    "toAreaId": "bj-olympic-798",
+    "mode": "publicTransit",
+    "distanceKm": 12,
+    "durationMinutes": 45,
+    "pricing": "perPerson",
+    "price": 5
+  },
+  {
+    "fromAreaId": "bj-palace-wangfujing",
+    "toAreaId": "bj-summer-palace-university",
+    "mode": "publicTransit",
+    "distanceKm": 15,
+    "durationMinutes": 50,
+    "pricing": "perPerson",
+    "price": 5
+  },
+  {
+    "fromAreaId": "bj-summer-palace-university",
+    "toAreaId": "bj-houhai-gulou",
+    "mode": "publicTransit",
+    "distanceKm": 14,
+    "durationMinutes": 45,
+    "pricing": "perPerson",
+    "price": 5
+  },
+  {
+    "fromAreaId": "bj-summer-palace-university",
+    "toAreaId": "bj-olympic-798",
+    "mode": "publicTransit",
+    "distanceKm": 18,
+    "durationMinutes": 60,
+    "pricing": "perPerson",
+    "price": 6
+  },
+  {
+    "fromAreaId": "bj-summer-palace-university",
+    "toAreaId": "bj-palace-wangfujing",
+    "mode": "publicTransit",
+    "distanceKm": 15,
+    "durationMinutes": 50,
+    "pricing": "perPerson",
+    "price": 5
+  }
+]

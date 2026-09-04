@@ -1,0 +1,6 @@
+[
+  {"id":"central","name":"中心城区","defaultTransports":[{"mode":"walk","distanceKm":1.2,"durationMinutes":18,"pricing":"perPerson","price":0},{"mode":"taxi","distanceKm":3,"durationMinutes":15,"pricing":"perVehicle","price":20}]},
+  {"id":"north","name":"北部城区","defaultTransports":[{"mode":"publicTransit","distanceKm":3,"durationMinutes":25,"pricing":"perPerson","price":4},{"mode":"taxi","distanceKm":4,"durationMinutes":18,"pricing":"perVehicle","price":24}]},
+  {"id":"west","name":"西部城区","defaultTransports":[{"mode":"walk","distanceKm":1.5,"durationMinutes":22,"pricing":"perPerson","price":0},{"mode":"publicTransit","distanceKm":3,"durationMinutes":25,"pricing":"perPerson","price":4}]},
+  {"id":"suburb","name":"近郊区域","defaultTransports":[{"mode":"publicTransit","distanceKm":5,"durationMinutes":35,"pricing":"perPerson","price":6},{"mode":"taxi","distanceKm":6,"durationMinutes":25,"pricing":"perVehicle","price":32}]}
+]

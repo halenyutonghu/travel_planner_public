@@ -1,0 +1,17 @@
+[
+  {"id":"nj-a01","name":"南京滨江城市步行体验","areaId":"central","categories":["history","landmark"],"durationMinutes":150,"ticketPerPerson":40,"tiers":["economy","comfortable","quality"],"fixedRank":1},
+  {"id":"nj-a02","name":"南京城市历史展馆","areaId":"central","categories":["history","museum"],"durationMinutes":120,"ticketPerPerson":30,"tiers":["economy","comfortable"],"fixedRank":2},
+  {"id":"nj-a03","name":"南京中心城市广场","areaId":"central","categories":["landmark","family"],"durationMinutes":90,"ticketPerPerson":0,"tiers":["economy","comfortable","quality"],"fixedRank":3},
+  {"id":"nj-a04","name":"南京传统街区美食体验","areaId":"central","categories":["food","shopping"],"durationMinutes":120,"ticketPerPerson":0,"tiers":["economy","comfortable"],"fixedRank":4},
+  {"id":"nj-a05","name":"南京北部艺术馆","areaId":"north","categories":["museum","landmark"],"durationMinutes":120,"ticketPerPerson":55,"tiers":["comfortable","quality"],"fixedRank":5},
+  {"id":"nj-a06","name":"南京北部湖畔公园","areaId":"north","categories":["nature","family"],"durationMinutes":150,"ticketPerPerson":10,"tiers":["economy","comfortable","quality"],"fixedRank":6},
+  {"id":"nj-a07","name":"南京创意商业街区","areaId":"north","categories":["shopping","food"],"durationMinutes":120,"ticketPerPerson":0,"tiers":["comfortable","quality"],"fixedRank":7},
+  {"id":"nj-a08","name":"南京传统建筑体验馆","areaId":"north","categories":["history","museum"],"durationMinutes":100,"ticketPerPerson":35,"tiers":["economy","comfortable"],"fixedRank":8},
+  {"id":"nj-a09","name":"南京西部城市公园","areaId":"west","categories":["nature","family"],"durationMinutes":150,"ticketPerPerson":10,"tiers":["economy","comfortable","quality"],"fixedRank":9},
+  {"id":"nj-a10","name":"南京西部文化艺术中心","areaId":"west","categories":["museum","landmark"],"durationMinutes":120,"ticketPerPerson":45,"tiers":["comfortable","quality"],"fixedRank":10},
+  {"id":"nj-a11","name":"南京地方风味市场","areaId":"west","categories":["food","shopping"],"durationMinutes":100,"ticketPerPerson":0,"tiers":["economy","comfortable"],"fixedRank":11},
+  {"id":"nj-a12","name":"南京城市观景平台","areaId":"west","categories":["landmark","family"],"durationMinutes":90,"ticketPerPerson":65,"tiers":["comfortable","quality"],"fixedRank":12},
+  {"id":"nj-a13","name":"南京近郊森林步道","areaId":"suburb","categories":["nature","family"],"durationMinutes":180,"ticketPerPerson":20,"tiers":["economy","comfortable"],"fixedRank":13},
+  {"id":"nj-a14","name":"南京近郊历史遗址","areaId":"suburb","categories":["history","landmark"],"durationMinutes":180,"ticketPerPerson":50,"tiers":["comfortable","quality"],"fixedRank":14},
+  {"id":"nj-a15","name":"南京近郊民俗体验区","areaId":"suburb","categories":["food","shopping"],"durationMinutes":150,"ticketPerPerson":30,"tiers":["economy","comfortable","quality"],"fixedRank":15}
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "bj-palace-wangfujing",
+    "name": "故宫王府井片区",
+    "defaultTransports": [
+      {
+        "mode": "walk",
+        "distanceKm": 1.2,
+        "durationMinutes": 18,
+        "pricing": "perPerson",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": "bj-houhai-gulou",
+    "name": "后海鼓楼片区",
+    "defaultTransports": [
+      {
+        "mode": "walk",
+        "distanceKm": 1.5,
+        "durationMinutes": 22,
+        "pricing": "perPerson",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": "bj-olympic-798",
+    "name": "奥林匹克798片区",
+    "defaultTransports": [
+      {
+        "mode": "publicTransit",
+        "distanceKm": 4,
+        "durationMinutes": 25,
+        "pricing": "perPerson",
+        "price": 4
+      }
+    ]
+  },
+  {
+    "id": "bj-summer-palace-university",
+    "name": "颐和园高校片区",
+    "defaultTransports": [
+      {
+        "mode": "walk",
+        "distanceKm": 1.5,
+        "durationMinutes": 22,
+        "pricing": "perPerson",
+        "price": 0
+      }
+    ]
+  }
+]

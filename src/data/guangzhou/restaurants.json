@@ -1,0 +1,12 @@
+[
+  {"id":"gz-r01","name":"广州中心本帮菜馆","areaId":"central","cuisines":["local"],"costPerPerson":85,"durationMinutes":60,"fixedRank":1},
+  {"id":"gz-r02","name":"广州中心家常餐厅","areaId":"central","cuisines":["home-style"],"costPerPerson":55,"durationMinutes":60,"fixedRank":2},
+  {"id":"gz-r03","name":"广州中心品质餐厅","areaId":"central","cuisines":["quality"],"costPerPerson":170,"durationMinutes":60,"fixedRank":3},
+  {"id":"gz-r04","name":"广州北部素食餐厅","areaId":"north","cuisines":["vegetarian"],"costPerPerson":70,"durationMinutes":60,"fixedRank":4},
+  {"id":"gz-r05","name":"广州北部小吃店","areaId":"north","cuisines":["snack"],"costPerPerson":40,"durationMinutes":60,"fixedRank":5},
+  {"id":"gz-r06","name":"广州北部国际餐厅","areaId":"north","cuisines":["international"],"costPerPerson":120,"durationMinutes":60,"fixedRank":6},
+  {"id":"gz-r07","name":"广州西部地方菜馆","areaId":"west","cuisines":["local"],"costPerPerson":80,"durationMinutes":60,"fixedRank":7},
+  {"id":"gz-r08","name":"广州西部快餐店","areaId":"west","cuisines":["snack"],"costPerPerson":35,"durationMinutes":60,"fixedRank":8},
+  {"id":"gz-r09","name":"广州近郊家常餐厅","areaId":"suburb","cuisines":["home-style"],"costPerPerson":60,"durationMinutes":60,"fixedRank":9},
+  {"id":"gz-r10","name":"广州近郊特色餐厅","areaId":"suburb","cuisines":["local"],"costPerPerson":90,"durationMinutes":60,"fixedRank":10}
+]

@@ -1,0 +1,12 @@
+[
+  {"id":"km-r01","name":"昆明中心本帮菜馆","areaId":"central","cuisines":["local"],"costPerPerson":85,"durationMinutes":60,"fixedRank":1},
+  {"id":"km-r02","name":"昆明中心家常餐厅","areaId":"central","cuisines":["home-style"],"costPerPerson":55,"durationMinutes":60,"fixedRank":2},
+  {"id":"km-r03","name":"昆明中心品质餐厅","areaId":"central","cuisines":["quality"],"costPerPerson":170,"durationMinutes":60,"fixedRank":3},
+  {"id":"km-r04","name":"昆明北部素食餐厅","areaId":"north","cuisines":["vegetarian"],"costPerPerson":70,"durationMinutes":60,"fixedRank":4},
+  {"id":"km-r05","name":"昆明北部小吃店","areaId":"north","cuisines":["snack"],"costPerPerson":40,"durationMinutes":60,"fixedRank":5},
+  {"id":"km-r06","name":"昆明北部国际餐厅","areaId":"north","cuisines":["international"],"costPerPerson":120,"durationMinutes":60,"fixedRank":6},
+  {"id":"km-r07","name":"昆明西部地方菜馆","areaId":"west","cuisines":["local"],"costPerPerson":80,"durationMinutes":60,"fixedRank":7},
+  {"id":"km-r08","name":"昆明西部快餐店","areaId":"west","cuisines":["snack"],"costPerPerson":35,"durationMinutes":60,"fixedRank":8},
+  {"id":"km-r09","name":"昆明近郊家常餐厅","areaId":"suburb","cuisines":["home-style"],"costPerPerson":60,"durationMinutes":60,"fixedRank":9},
+  {"id":"km-r10","name":"昆明近郊特色餐厅","areaId":"suburb","cuisines":["local"],"costPerPerson":90,"durationMinutes":60,"fixedRank":10}
+]
