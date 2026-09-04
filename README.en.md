@@ -1,8 +1,12 @@
 # Light Trip Planner
 
+[中文](README.md) | English
+
 Light Trip Planner is a local demo web app for building travel itineraries. It does not connect to AI services, backend servers, databases, or live maps. Instead, it uses built-in sample data for Beijing, Shanghai, Guangzhou, Kunming, and Nanjing, then generates 1- to 7-day itineraries with deterministic planning rules.
 
 Current status: early-stage prototype.
+
+The README is available in English, but the web app itself currently supports Chinese only.
 
 Plans are stored only in the browser you use on your own computer. If you clear browser data, switch browsers, or use another computer, saved plans will not automatically follow you. Prices, travel times, distances, and place details are demo data and should not be used as real travel advice.
 
